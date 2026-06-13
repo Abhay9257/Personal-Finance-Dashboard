@@ -1,0 +1,378 @@
+Transaction_ID,Date,Month,Year,Day_Name,Category,Subcategory,Description,Payment_Method,Bank_Account,City,Income,Expense,Balance_Type,Budget,Savings_Goal,Transaction_Type,Remarks
+TX10001,2025-01-01,January,2025,Wednesday,Salary,Monthly Salary,Salary Credited,Bank Transfer,SBI,Pune,30000,0,Income,0,100000,Income,Monthly salary
+TX10002,2025-01-01,January,2025,Wednesday,Transport,Petrol,Regular Transaction,Cash,SBI,Bengaluru,0,2251,Expense,4364,100000,Expense,Regular transaction
+TX10003,2025-01-02,January,2025,Thursday,Food,Restaurant,Regular Transaction,Debit Card,HDFC,Delhi,0,2100,Expense,2833,100000,Expense,Regular transaction
+TX10004,2025-01-03,January,2025,Friday,Food,Restaurant,Regular Transaction,UPI,SBI,Delhi,0,1760,Expense,2860,100000,Expense,Regular transaction
+TX10005,2025-01-04,January,2025,Saturday,Health,Gym,Regular Transaction,Cash,PNB,Bengaluru,0,2879,Expense,5742,100000,Expense,Regular transaction
+TX10006,2025-01-05,January,2025,Sunday,Shopping,Accessories,Regular Transaction,Credit Card,PNB,Mumbai,0,354,Expense,6095,100000,Expense,Regular transaction
+TX10007,2025-01-06,January,2025,Monday,Bills,Mobile Recharge,Regular Transaction,Net Banking,HDFC,Jaipur,0,207,Expense,4581,100000,Expense,Regular transaction
+TX10008,2025-01-07,January,2025,Tuesday,Health,Medicine,Regular Transaction,UPI,HDFC,Bengaluru,0,2817,Expense,2625,100000,Expense,Regular transaction
+TX10009,2025-01-08,January,2025,Wednesday,Entertainment,Movie,Regular Transaction,Cash,SBI,Delhi,0,1623,Expense,4045,100000,Expense,Regular transaction
+TX10010,2025-01-09,January,2025,Thursday,Entertainment,Gaming,Regular Transaction,Debit Card,ICICI,Bengaluru,0,2880,Expense,4216,100000,Expense,Regular transaction
+TX10011,2025-01-10,January,2025,Friday,Bills,Mobile Recharge,Regular Transaction,UPI,SBI,Jaipur,0,256,Expense,5589,100000,Expense,Regular transaction
+TX10012,2025-01-11,January,2025,Saturday,Entertainment,Gaming,Regular Transaction,Net Banking,PNB,Mumbai,0,2678,Expense,3704,100000,Expense,Regular transaction
+TX10013,2025-01-12,January,2025,Sunday,Education,Books,Regular Transaction,Cash,PNB,Delhi,0,2512,Expense,5965,100000,Expense,Regular transaction
+TX10014,2025-01-13,January,2025,Monday,Health,Gym,Regular Transaction,Credit Card,ICICI,Delhi,0,409,Expense,3141,100000,Expense,Regular transaction
+TX10015,2025-01-14,January,2025,Tuesday,Transport,Bus,Regular Transaction,Credit Card,PNB,Delhi,0,2765,Expense,2224,100000,Expense,Regular transaction
+TX10016,2025-01-15,January,2025,Wednesday,Transport,Bus,Regular Transaction,Debit Card,ICICI,Delhi,0,1349,Expense,5858,100000,Expense,Regular transaction
+TX10017,2025-01-16,January,2025,Thursday,Transport,Petrol,Regular Transaction,Cash,ICICI,Delhi,0,780,Expense,6628,100000,Expense,Regular transaction
+TX10018,2025-01-17,January,2025,Friday,Shopping,Accessories,Regular Transaction,Credit Card,HDFC,Jaipur,0,430,Expense,4219,100000,Expense,Regular transaction
+TX10019,2025-01-18,January,2025,Saturday,Health,Doctor Visit,Regular Transaction,Credit Card,ICICI,Mumbai,0,853,Expense,3683,100000,Expense,Regular transaction
+TX10020,2025-01-19,January,2025,Sunday,Health,Medicine,Regular Transaction,UPI,PNB,Mumbai,0,1007,Expense,4826,100000,Expense,Regular transaction
+TX10021,2025-01-20,January,2025,Monday,Food,Groceries,Regular Transaction,Cash,ICICI,Delhi,0,185,Expense,6997,100000,Expense,Regular transaction
+TX10022,2025-01-21,January,2025,Tuesday,Bills,Internet,Regular Transaction,Debit Card,HDFC,Jaipur,0,1180,Expense,6187,100000,Expense,Regular transaction
+TX10023,2025-01-22,January,2025,Wednesday,Transport,Petrol,Regular Transaction,Cash,HDFC,Mumbai,0,1047,Expense,4978,100000,Expense,Regular transaction
+TX10024,2025-01-23,January,2025,Thursday,Education,Course,Regular Transaction,Cash,PNB,Delhi,0,1996,Expense,4384,100000,Expense,Regular transaction
+TX10025,2025-01-24,January,2025,Friday,Bills,Mobile Recharge,Regular Transaction,Net Banking,ICICI,Pune,0,2255,Expense,6766,100000,Expense,Regular transaction
+TX10026,2025-01-25,January,2025,Saturday,Transport,Taxi,Regular Transaction,Cash,SBI,Mumbai,0,554,Expense,5911,100000,Expense,Regular transaction
+TX10027,2025-01-26,January,2025,Sunday,Entertainment,Streaming,Regular Transaction,Debit Card,ICICI,Bengaluru,0,2266,Expense,5618,100000,Expense,Regular transaction
+TX10028,2025-01-27,January,2025,Monday,Transport,Petrol,Regular Transaction,UPI,HDFC,Jaipur,0,721,Expense,6518,100000,Expense,Regular transaction
+TX10029,2025-01-28,January,2025,Tuesday,Health,Doctor Visit,Regular Transaction,UPI,ICICI,Pune,0,1266,Expense,2484,100000,Expense,Regular transaction
+TX10030,2025-01-29,January,2025,Wednesday,Bills,Internet,Regular Transaction,Net Banking,PNB,Mumbai,0,580,Expense,3898,100000,Expense,Regular transaction
+TX10031,2025-01-30,January,2025,Thursday,Education,Books,Regular Transaction,Debit Card,SBI,Delhi,0,2086,Expense,2073,100000,Expense,Regular transaction
+TX10032,2025-01-31,January,2025,Friday,Entertainment,Gaming,Regular Transaction,Credit Card,ICICI,Delhi,0,2931,Expense,6507,100000,Expense,Regular transaction
+TX10033,2025-02-01,February,2025,Saturday,Salary,Monthly Salary,Salary Credited,Bank Transfer,PNB,Bengaluru,30000,0,Income,0,100000,Income,Monthly salary
+TX10034,2025-02-01,February,2025,Saturday,Transport,Bus,Regular Transaction,Credit Card,HDFC,Bengaluru,0,1116,Expense,4877,100000,Expense,Regular transaction
+TX10035,2025-02-02,February,2025,Sunday,Health,Gym,Regular Transaction,Net Banking,HDFC,Bengaluru,0,1695,Expense,6742,100000,Expense,Regular transaction
+TX10036,2025-02-03,February,2025,Monday,Food,Snacks,Regular Transaction,Cash,PNB,Pune,0,2217,Expense,5150,100000,Expense,Regular transaction
+TX10037,2025-02-04,February,2025,Tuesday,Health,Doctor Visit,Regular Transaction,Credit Card,HDFC,Delhi,0,840,Expense,4087,100000,Expense,Regular transaction
+TX10038,2025-02-05,February,2025,Wednesday,Shopping,Electronics,Regular Transaction,UPI,ICICI,Bengaluru,0,2730,Expense,2760,100000,Expense,Regular transaction
+TX10039,2025-02-06,February,2025,Thursday,Entertainment,Movie,Regular Transaction,Debit Card,SBI,Delhi,0,945,Expense,5233,100000,Expense,Regular transaction
+TX10040,2025-02-07,February,2025,Friday,Bills,Electricity,Regular Transaction,UPI,SBI,Pune,0,617,Expense,3201,100000,Expense,Regular transaction
+TX10041,2025-02-08,February,2025,Saturday,Transport,Taxi,Regular Transaction,Debit Card,PNB,Jaipur,0,693,Expense,3269,100000,Expense,Regular transaction
+TX10042,2025-02-09,February,2025,Sunday,Food,Groceries,Regular Transaction,Cash,SBI,Mumbai,0,2758,Expense,5266,100000,Expense,Regular transaction
+TX10043,2025-02-10,February,2025,Monday,Health,Doctor Visit,Regular Transaction,Net Banking,PNB,Jaipur,0,1505,Expense,5586,100000,Expense,Regular transaction
+TX10044,2025-02-11,February,2025,Tuesday,Shopping,Electronics,Regular Transaction,Cash,ICICI,Pune,0,617,Expense,5585,100000,Expense,Regular transaction
+TX10045,2025-02-12,February,2025,Wednesday,Entertainment,Streaming,Regular Transaction,Net Banking,ICICI,Bengaluru,0,1239,Expense,2492,100000,Expense,Regular transaction
+TX10046,2025-02-13,February,2025,Thursday,Food,Restaurant,Regular Transaction,UPI,HDFC,Mumbai,0,2298,Expense,5293,100000,Expense,Regular transaction
+TX10047,2025-02-14,February,2025,Friday,Bills,Electricity,Regular Transaction,Debit Card,PNB,Jaipur,0,627,Expense,6975,100000,Expense,Regular transaction
+TX10048,2025-02-15,February,2025,Saturday,Transport,Taxi,Regular Transaction,Net Banking,HDFC,Pune,0,1234,Expense,3639,100000,Expense,Regular transaction
+TX10049,2025-02-16,February,2025,Sunday,Shopping,Clothes,Regular Transaction,Credit Card,HDFC,Bengaluru,0,414,Expense,3930,100000,Expense,Regular transaction
+TX10050,2025-02-17,February,2025,Monday,Health,Doctor Visit,Regular Transaction,Cash,ICICI,Delhi,0,1046,Expense,5747,100000,Expense,Regular transaction
+TX10051,2025-02-18,February,2025,Tuesday,Education,Exam Fee,Regular Transaction,UPI,ICICI,Delhi,0,490,Expense,2914,100000,Expense,Regular transaction
+TX10052,2025-02-19,February,2025,Wednesday,Bills,Electricity,Regular Transaction,Debit Card,PNB,Delhi,0,1595,Expense,2994,100000,Expense,Regular transaction
+TX10053,2025-02-20,February,2025,Thursday,Bills,Electricity,Regular Transaction,Debit Card,SBI,Delhi,0,1845,Expense,2960,100000,Expense,Regular transaction
+TX10054,2025-02-21,February,2025,Friday,Shopping,Clothes,Regular Transaction,Cash,HDFC,Bengaluru,0,217,Expense,4288,100000,Expense,Regular transaction
+TX10055,2025-02-22,February,2025,Saturday,Health,Doctor Visit,Regular Transaction,Net Banking,PNB,Mumbai,0,1433,Expense,3204,100000,Expense,Regular transaction
+TX10056,2025-02-23,February,2025,Sunday,Entertainment,Streaming,Regular Transaction,UPI,ICICI,Bengaluru,0,1902,Expense,4604,100000,Expense,Regular transaction
+TX10057,2025-02-24,February,2025,Monday,Bills,Mobile Recharge,Regular Transaction,UPI,ICICI,Pune,0,980,Expense,2964,100000,Expense,Regular transaction
+TX10058,2025-02-25,February,2025,Tuesday,Education,Exam Fee,Regular Transaction,Debit Card,SBI,Bengaluru,0,125,Expense,3569,100000,Expense,Regular transaction
+TX10059,2025-02-26,February,2025,Wednesday,Shopping,Clothes,Regular Transaction,UPI,SBI,Mumbai,0,1263,Expense,4373,100000,Expense,Regular transaction
+TX10060,2025-02-27,February,2025,Thursday,Education,Course,Regular Transaction,UPI,HDFC,Pune,0,2427,Expense,4096,100000,Expense,Regular transaction
+TX10061,2025-02-28,February,2025,Friday,Bills,Internet,Regular Transaction,Debit Card,ICICI,Delhi,0,2323,Expense,5617,100000,Expense,Regular transaction
+TX10062,2025-03-01,March,2025,Saturday,Salary,Monthly Salary,Salary Credited,Bank Transfer,HDFC,Delhi,30000,0,Income,0,100000,Income,Monthly salary
+TX10063,2025-03-01,March,2025,Saturday,Bills,Mobile Recharge,Regular Transaction,Cash,SBI,Bengaluru,0,484,Expense,6769,100000,Expense,Regular transaction
+TX10064,2025-03-02,March,2025,Sunday,Shopping,Electronics,Regular Transaction,Credit Card,HDFC,Pune,0,104,Expense,4970,100000,Expense,Regular transaction
+TX10065,2025-03-03,March,2025,Monday,Food,Groceries,Regular Transaction,UPI,ICICI,Mumbai,0,163,Expense,5878,100000,Expense,Regular transaction
+TX10066,2025-03-04,March,2025,Tuesday,Shopping,Clothes,Regular Transaction,Net Banking,PNB,Pune,0,844,Expense,3308,100000,Expense,Regular transaction
+TX10067,2025-03-05,March,2025,Wednesday,Shopping,Accessories,Regular Transaction,UPI,HDFC,Pune,0,1316,Expense,4634,100000,Expense,Regular transaction
+TX10068,2025-03-06,March,2025,Thursday,Entertainment,Streaming,Regular Transaction,UPI,HDFC,Mumbai,0,1333,Expense,6811,100000,Expense,Regular transaction
+TX10069,2025-03-07,March,2025,Friday,Entertainment,Gaming,Regular Transaction,Net Banking,ICICI,Bengaluru,0,2995,Expense,5603,100000,Expense,Regular transaction
+TX10070,2025-03-08,March,2025,Saturday,Shopping,Clothes,Regular Transaction,Credit Card,HDFC,Pune,0,2353,Expense,3510,100000,Expense,Regular transaction
+TX10071,2025-03-09,March,2025,Sunday,Entertainment,Streaming,Regular Transaction,Net Banking,HDFC,Mumbai,0,2533,Expense,6151,100000,Expense,Regular transaction
+TX10072,2025-03-10,March,2025,Monday,Entertainment,Streaming,Regular Transaction,UPI,PNB,Bengaluru,0,1705,Expense,5750,100000,Expense,Regular transaction
+TX10073,2025-03-11,March,2025,Tuesday,Shopping,Electronics,Regular Transaction,Cash,SBI,Delhi,0,788,Expense,3524,100000,Expense,Regular transaction
+TX10074,2025-03-12,March,2025,Wednesday,Health,Medicine,Regular Transaction,Cash,SBI,Delhi,0,453,Expense,2027,100000,Expense,Regular transaction
+TX10075,2025-03-13,March,2025,Thursday,Entertainment,Streaming,Regular Transaction,Cash,ICICI,Pune,0,1933,Expense,6715,100000,Expense,Regular transaction
+TX10076,2025-03-14,March,2025,Friday,Health,Doctor Visit,Regular Transaction,Credit Card,PNB,Jaipur,0,2802,Expense,3519,100000,Expense,Regular transaction
+TX10077,2025-03-15,March,2025,Saturday,Shopping,Electronics,Regular Transaction,Debit Card,SBI,Mumbai,0,2020,Expense,4418,100000,Expense,Regular transaction
+TX10078,2025-03-16,March,2025,Sunday,Education,Exam Fee,Regular Transaction,Cash,PNB,Mumbai,0,512,Expense,6472,100000,Expense,Regular transaction
+TX10079,2025-03-17,March,2025,Monday,Bills,Electricity,Regular Transaction,Credit Card,SBI,Bengaluru,0,182,Expense,5830,100000,Expense,Regular transaction
+TX10080,2025-03-18,March,2025,Tuesday,Health,Doctor Visit,Regular Transaction,UPI,PNB,Mumbai,0,2175,Expense,4566,100000,Expense,Regular transaction
+TX10081,2025-03-19,March,2025,Wednesday,Transport,Bus,Regular Transaction,Debit Card,HDFC,Mumbai,0,1628,Expense,5181,100000,Expense,Regular transaction
+TX10082,2025-03-20,March,2025,Thursday,Education,Exam Fee,Regular Transaction,Cash,HDFC,Jaipur,0,2116,Expense,5351,100000,Expense,Regular transaction
+TX10083,2025-03-21,March,2025,Friday,Transport,Petrol,Regular Transaction,Debit Card,PNB,Bengaluru,0,1889,Expense,5114,100000,Expense,Regular transaction
+TX10084,2025-03-22,March,2025,Saturday,Education,Exam Fee,Regular Transaction,Cash,PNB,Mumbai,0,834,Expense,2318,100000,Expense,Regular transaction
+TX10085,2025-03-23,March,2025,Sunday,Shopping,Electronics,Regular Transaction,Credit Card,SBI,Mumbai,0,1604,Expense,6678,100000,Expense,Regular transaction
+TX10086,2025-03-24,March,2025,Monday,Entertainment,Gaming,Regular Transaction,Net Banking,HDFC,Bengaluru,0,1343,Expense,3675,100000,Expense,Regular transaction
+TX10087,2025-03-25,March,2025,Tuesday,Shopping,Electronics,Regular Transaction,UPI,PNB,Mumbai,0,1403,Expense,4964,100000,Expense,Regular transaction
+TX10088,2025-03-26,March,2025,Wednesday,Food,Groceries,Regular Transaction,Cash,ICICI,Delhi,0,2902,Expense,2532,100000,Expense,Regular transaction
+TX10089,2025-03-27,March,2025,Thursday,Food,Groceries,Regular Transaction,UPI,SBI,Pune,0,609,Expense,4306,100000,Expense,Regular transaction
+TX10090,2025-03-28,March,2025,Friday,Health,Doctor Visit,Regular Transaction,Debit Card,HDFC,Delhi,0,1445,Expense,4096,100000,Expense,Regular transaction
+TX10091,2025-03-29,March,2025,Saturday,Shopping,Electronics,Regular Transaction,Net Banking,HDFC,Delhi,0,2595,Expense,6585,100000,Expense,Regular transaction
+TX10092,2025-03-30,March,2025,Sunday,Health,Medicine,Regular Transaction,Cash,PNB,Mumbai,0,450,Expense,3732,100000,Expense,Regular transaction
+TX10093,2025-03-31,March,2025,Monday,Entertainment,Movie,Regular Transaction,UPI,HDFC,Bengaluru,0,697,Expense,4629,100000,Expense,Regular transaction
+TX10094,2025-04-01,April,2025,Tuesday,Salary,Monthly Salary,Salary Credited,Bank Transfer,PNB,Pune,30000,0,Income,0,100000,Income,Monthly salary
+TX10095,2025-04-01,April,2025,Tuesday,Entertainment,Streaming,Regular Transaction,Debit Card,PNB,Jaipur,0,1419,Expense,3738,100000,Expense,Regular transaction
+TX10096,2025-04-02,April,2025,Wednesday,Bills,Electricity,Regular Transaction,Debit Card,SBI,Delhi,0,1464,Expense,6973,100000,Expense,Regular transaction
+TX10097,2025-04-03,April,2025,Thursday,Transport,Bus,Regular Transaction,Net Banking,PNB,Mumbai,0,2385,Expense,5941,100000,Expense,Regular transaction
+TX10098,2025-04-04,April,2025,Friday,Bills,Internet,Regular Transaction,Credit Card,SBI,Mumbai,0,2482,Expense,4520,100000,Expense,Regular transaction
+TX10099,2025-04-05,April,2025,Saturday,Entertainment,Streaming,Regular Transaction,Credit Card,ICICI,Jaipur,0,1321,Expense,3121,100000,Expense,Regular transaction
+TX10100,2025-04-06,April,2025,Sunday,Transport,Taxi,Regular Transaction,Net Banking,HDFC,Pune,0,621,Expense,2849,100000,Expense,Regular transaction
+TX10101,2025-04-07,April,2025,Monday,Health,Doctor Visit,Regular Transaction,Cash,ICICI,Delhi,0,197,Expense,3932,100000,Expense,Regular transaction
+TX10102,2025-04-08,April,2025,Tuesday,Entertainment,Gaming,Regular Transaction,Net Banking,HDFC,Pune,0,709,Expense,6814,100000,Expense,Regular transaction
+TX10103,2025-04-09,April,2025,Wednesday,Education,Books,Regular Transaction,UPI,ICICI,Bengaluru,0,1677,Expense,4606,100000,Expense,Regular transaction
+TX10104,2025-04-10,April,2025,Thursday,Health,Medicine,Regular Transaction,UPI,SBI,Pune,0,204,Expense,2879,100000,Expense,Regular transaction
+TX10105,2025-04-11,April,2025,Friday,Health,Gym,Regular Transaction,UPI,HDFC,Delhi,0,406,Expense,4422,100000,Expense,Regular transaction
+TX10106,2025-04-12,April,2025,Saturday,Bills,Mobile Recharge,Regular Transaction,Credit Card,HDFC,Bengaluru,0,935,Expense,2921,100000,Expense,Regular transaction
+TX10107,2025-04-13,April,2025,Sunday,Bills,Mobile Recharge,Regular Transaction,UPI,SBI,Mumbai,0,366,Expense,3969,100000,Expense,Regular transaction
+TX10108,2025-04-14,April,2025,Monday,Entertainment,Streaming,Regular Transaction,Net Banking,SBI,Delhi,0,1646,Expense,6969,100000,Expense,Regular transaction
+TX10109,2025-04-15,April,2025,Tuesday,Health,Gym,Regular Transaction,Debit Card,ICICI,Bengaluru,0,1544,Expense,5655,100000,Expense,Regular transaction
+TX10110,2025-04-16,April,2025,Wednesday,Food,Snacks,Regular Transaction,Debit Card,ICICI,Mumbai,0,2022,Expense,4317,100000,Expense,Regular transaction
+TX10111,2025-04-17,April,2025,Thursday,Bills,Mobile Recharge,Regular Transaction,Cash,PNB,Jaipur,0,2553,Expense,5608,100000,Expense,Regular transaction
+TX10112,2025-04-18,April,2025,Friday,Food,Restaurant,Regular Transaction,Net Banking,HDFC,Pune,0,1142,Expense,5343,100000,Expense,Regular transaction
+TX10113,2025-04-19,April,2025,Saturday,Shopping,Clothes,Regular Transaction,Cash,HDFC,Delhi,0,1906,Expense,3789,100000,Expense,Regular transaction
+TX10114,2025-04-20,April,2025,Sunday,Shopping,Accessories,Regular Transaction,Net Banking,HDFC,Delhi,0,2168,Expense,5193,100000,Expense,Regular transaction
+TX10115,2025-04-21,April,2025,Monday,Shopping,Accessories,Regular Transaction,Debit Card,SBI,Mumbai,0,1317,Expense,5096,100000,Expense,Regular transaction
+TX10116,2025-04-22,April,2025,Tuesday,Transport,Petrol,Regular Transaction,Net Banking,HDFC,Pune,0,800,Expense,5205,100000,Expense,Regular transaction
+TX10117,2025-04-23,April,2025,Wednesday,Bills,Electricity,Regular Transaction,UPI,SBI,Jaipur,0,2328,Expense,4520,100000,Expense,Regular transaction
+TX10118,2025-04-24,April,2025,Thursday,Transport,Taxi,Regular Transaction,Cash,ICICI,Jaipur,0,1815,Expense,2894,100000,Expense,Regular transaction
+TX10119,2025-04-25,April,2025,Friday,Bills,Electricity,Regular Transaction,Debit Card,HDFC,Jaipur,0,1389,Expense,2258,100000,Expense,Regular transaction
+TX10120,2025-04-26,April,2025,Saturday,Bills,Internet,Regular Transaction,UPI,HDFC,Bengaluru,0,645,Expense,6868,100000,Expense,Regular transaction
+TX10121,2025-04-27,April,2025,Sunday,Education,Exam Fee,Regular Transaction,Credit Card,SBI,Mumbai,0,732,Expense,5230,100000,Expense,Regular transaction
+TX10122,2025-04-28,April,2025,Monday,Food,Restaurant,Regular Transaction,Debit Card,PNB,Delhi,0,1399,Expense,6244,100000,Expense,Regular transaction
+TX10123,2025-04-29,April,2025,Tuesday,Food,Groceries,Regular Transaction,Net Banking,HDFC,Delhi,0,2181,Expense,2134,100000,Expense,Regular transaction
+TX10124,2025-04-30,April,2025,Wednesday,Education,Course,Regular Transaction,UPI,ICICI,Delhi,0,1746,Expense,6057,100000,Expense,Regular transaction
+TX10125,2025-05-01,May,2025,Thursday,Salary,Monthly Salary,Salary Credited,Bank Transfer,SBI,Mumbai,30000,0,Income,0,100000,Income,Monthly salary
+TX10126,2025-05-01,May,2025,Thursday,Health,Gym,Regular Transaction,Credit Card,PNB,Delhi,0,1557,Expense,4762,100000,Expense,Regular transaction
+TX10127,2025-05-02,May,2025,Friday,Shopping,Accessories,Regular Transaction,Cash,HDFC,Delhi,0,2101,Expense,4118,100000,Expense,Regular transaction
+TX10128,2025-05-03,May,2025,Saturday,Transport,Bus,Regular Transaction,Credit Card,ICICI,Bengaluru,0,1025,Expense,6043,100000,Expense,Regular transaction
+TX10129,2025-05-04,May,2025,Sunday,Shopping,Electronics,Regular Transaction,Debit Card,ICICI,Pune,0,2455,Expense,2928,100000,Expense,Regular transaction
+TX10130,2025-05-05,May,2025,Monday,Entertainment,Movie,Regular Transaction,Net Banking,PNB,Mumbai,0,2170,Expense,5182,100000,Expense,Regular transaction
+TX10131,2025-05-06,May,2025,Tuesday,Shopping,Electronics,Regular Transaction,Cash,PNB,Pune,0,2087,Expense,2542,100000,Expense,Regular transaction
+TX10132,2025-05-07,May,2025,Wednesday,Food,Restaurant,Regular Transaction,UPI,HDFC,Delhi,0,1278,Expense,2146,100000,Expense,Regular transaction
+TX10133,2025-05-08,May,2025,Thursday,Bills,Mobile Recharge,Regular Transaction,Credit Card,HDFC,Mumbai,0,385,Expense,4514,100000,Expense,Regular transaction
+TX10134,2025-05-09,May,2025,Friday,Bills,Mobile Recharge,Regular Transaction,UPI,ICICI,Mumbai,0,1044,Expense,4711,100000,Expense,Regular transaction
+TX10135,2025-05-10,May,2025,Saturday,Health,Medicine,Regular Transaction,Debit Card,PNB,Mumbai,0,1328,Expense,6902,100000,Expense,Regular transaction
+TX10136,2025-05-11,May,2025,Sunday,Education,Course,Regular Transaction,UPI,ICICI,Delhi,0,2111,Expense,4697,100000,Expense,Regular transaction
+TX10137,2025-05-12,May,2025,Monday,Food,Restaurant,Regular Transaction,Cash,SBI,Bengaluru,0,819,Expense,4920,100000,Expense,Regular transaction
+TX10138,2025-05-13,May,2025,Tuesday,Entertainment,Streaming,Regular Transaction,Credit Card,ICICI,Pune,0,1699,Expense,5148,100000,Expense,Regular transaction
+TX10139,2025-05-14,May,2025,Wednesday,Food,Groceries,Regular Transaction,Credit Card,PNB,Pune,0,2470,Expense,5556,100000,Expense,Regular transaction
+TX10140,2025-05-15,May,2025,Thursday,Food,Snacks,Regular Transaction,UPI,SBI,Delhi,0,349,Expense,5013,100000,Expense,Regular transaction
+TX10141,2025-05-16,May,2025,Friday,Shopping,Clothes,Regular Transaction,UPI,HDFC,Delhi,0,388,Expense,3220,100000,Expense,Regular transaction
+TX10142,2025-05-17,May,2025,Saturday,Entertainment,Movie,Regular Transaction,Credit Card,HDFC,Delhi,0,1450,Expense,4086,100000,Expense,Regular transaction
+TX10143,2025-05-18,May,2025,Sunday,Health,Gym,Regular Transaction,UPI,HDFC,Bengaluru,0,1381,Expense,5255,100000,Expense,Regular transaction
+TX10144,2025-05-19,May,2025,Monday,Entertainment,Streaming,Regular Transaction,Credit Card,ICICI,Pune,0,1726,Expense,2860,100000,Expense,Regular transaction
+TX10145,2025-05-20,May,2025,Tuesday,Shopping,Electronics,Regular Transaction,Credit Card,ICICI,Jaipur,0,811,Expense,3811,100000,Expense,Regular transaction
+TX10146,2025-05-21,May,2025,Wednesday,Transport,Taxi,Regular Transaction,Net Banking,ICICI,Bengaluru,0,631,Expense,5390,100000,Expense,Regular transaction
+TX10147,2025-05-22,May,2025,Thursday,Food,Restaurant,Regular Transaction,Credit Card,SBI,Bengaluru,0,2829,Expense,3509,100000,Expense,Regular transaction
+TX10148,2025-05-23,May,2025,Friday,Education,Books,Regular Transaction,Net Banking,ICICI,Mumbai,0,290,Expense,6792,100000,Expense,Regular transaction
+TX10149,2025-05-24,May,2025,Saturday,Food,Groceries,Regular Transaction,Debit Card,ICICI,Jaipur,0,647,Expense,6067,100000,Expense,Regular transaction
+TX10150,2025-05-25,May,2025,Sunday,Health,Gym,Regular Transaction,Credit Card,SBI,Pune,0,1743,Expense,4750,100000,Expense,Regular transaction
+TX10151,2025-05-26,May,2025,Monday,Food,Groceries,Regular Transaction,Credit Card,PNB,Delhi,0,2254,Expense,5370,100000,Expense,Regular transaction
+TX10152,2025-05-27,May,2025,Tuesday,Entertainment,Gaming,Regular Transaction,Cash,HDFC,Delhi,0,1485,Expense,3144,100000,Expense,Regular transaction
+TX10153,2025-05-28,May,2025,Wednesday,Shopping,Clothes,Regular Transaction,Cash,SBI,Mumbai,0,1631,Expense,2017,100000,Expense,Regular transaction
+TX10154,2025-05-29,May,2025,Thursday,Education,Course,Regular Transaction,Credit Card,ICICI,Mumbai,0,1323,Expense,3798,100000,Expense,Regular transaction
+TX10155,2025-05-30,May,2025,Friday,Entertainment,Movie,Regular Transaction,Net Banking,SBI,Delhi,0,293,Expense,3280,100000,Expense,Regular transaction
+TX10156,2025-05-31,May,2025,Saturday,Shopping,Clothes,Regular Transaction,Credit Card,PNB,Bengaluru,0,316,Expense,6079,100000,Expense,Regular transaction
+TX10157,2025-06-01,June,2025,Sunday,Salary,Monthly Salary,Salary Credited,Bank Transfer,HDFC,Jaipur,30000,0,Income,0,100000,Income,Monthly salary
+TX10158,2025-06-01,June,2025,Sunday,Bills,Mobile Recharge,Regular Transaction,Net Banking,SBI,Pune,0,1780,Expense,2475,100000,Expense,Regular transaction
+TX10159,2025-06-02,June,2025,Monday,Shopping,Accessories,Regular Transaction,Credit Card,ICICI,Bengaluru,0,2648,Expense,5716,100000,Expense,Regular transaction
+TX10160,2025-06-03,June,2025,Tuesday,Health,Gym,Regular Transaction,Net Banking,ICICI,Jaipur,0,1187,Expense,3442,100000,Expense,Regular transaction
+TX10161,2025-06-04,June,2025,Wednesday,Transport,Taxi,Regular Transaction,UPI,HDFC,Delhi,0,106,Expense,5048,100000,Expense,Regular transaction
+TX10162,2025-06-05,June,2025,Thursday,Food,Snacks,Regular Transaction,Cash,PNB,Bengaluru,0,1876,Expense,4543,100000,Expense,Regular transaction
+TX10163,2025-06-06,June,2025,Friday,Health,Gym,Regular Transaction,UPI,SBI,Delhi,0,2085,Expense,5673,100000,Expense,Regular transaction
+TX10164,2025-06-07,June,2025,Saturday,Education,Course,Regular Transaction,Net Banking,PNB,Mumbai,0,2335,Expense,6680,100000,Expense,Regular transaction
+TX10165,2025-06-08,June,2025,Sunday,Shopping,Clothes,Regular Transaction,UPI,PNB,Pune,0,2704,Expense,6465,100000,Expense,Regular transaction
+TX10166,2025-06-09,June,2025,Monday,Education,Course,Regular Transaction,Credit Card,PNB,Pune,0,2084,Expense,3840,100000,Expense,Regular transaction
+TX10167,2025-06-10,June,2025,Tuesday,Shopping,Accessories,Regular Transaction,Credit Card,PNB,Pune,0,2855,Expense,2741,100000,Expense,Regular transaction
+TX10168,2025-06-11,June,2025,Wednesday,Education,Course,Regular Transaction,Debit Card,PNB,Bengaluru,0,938,Expense,4853,100000,Expense,Regular transaction
+TX10169,2025-06-12,June,2025,Thursday,Health,Gym,Regular Transaction,Net Banking,SBI,Bengaluru,0,328,Expense,2309,100000,Expense,Regular transaction
+TX10170,2025-06-13,June,2025,Friday,Bills,Internet,Regular Transaction,Credit Card,PNB,Pune,0,1497,Expense,4364,100000,Expense,Regular transaction
+TX10171,2025-06-14,June,2025,Saturday,Food,Groceries,Regular Transaction,Debit Card,ICICI,Jaipur,0,106,Expense,2993,100000,Expense,Regular transaction
+TX10172,2025-06-15,June,2025,Sunday,Bills,Internet,Regular Transaction,Net Banking,HDFC,Pune,0,2858,Expense,2787,100000,Expense,Regular transaction
+TX10173,2025-06-16,June,2025,Monday,Food,Snacks,Regular Transaction,Debit Card,HDFC,Delhi,0,2417,Expense,2507,100000,Expense,Regular transaction
+TX10174,2025-06-17,June,2025,Tuesday,Transport,Taxi,Regular Transaction,UPI,ICICI,Jaipur,0,2124,Expense,2178,100000,Expense,Regular transaction
+TX10175,2025-06-18,June,2025,Wednesday,Health,Gym,Regular Transaction,UPI,ICICI,Jaipur,0,2555,Expense,6298,100000,Expense,Regular transaction
+TX10176,2025-06-19,June,2025,Thursday,Health,Doctor Visit,Regular Transaction,Debit Card,PNB,Bengaluru,0,2242,Expense,4850,100000,Expense,Regular transaction
+TX10177,2025-06-20,June,2025,Friday,Education,Course,Regular Transaction,Debit Card,ICICI,Jaipur,0,629,Expense,4215,100000,Expense,Regular transaction
+TX10178,2025-06-21,June,2025,Saturday,Health,Doctor Visit,Regular Transaction,Net Banking,HDFC,Pune,0,2441,Expense,2336,100000,Expense,Regular transaction
+TX10179,2025-06-22,June,2025,Sunday,Health,Medicine,Regular Transaction,Debit Card,SBI,Mumbai,0,2792,Expense,2334,100000,Expense,Regular transaction
+TX10180,2025-06-23,June,2025,Monday,Education,Exam Fee,Regular Transaction,Debit Card,ICICI,Delhi,0,456,Expense,4878,100000,Expense,Regular transaction
+TX10181,2025-06-24,June,2025,Tuesday,Health,Doctor Visit,Regular Transaction,UPI,HDFC,Pune,0,1280,Expense,6790,100000,Expense,Regular transaction
+TX10182,2025-06-25,June,2025,Wednesday,Entertainment,Gaming,Regular Transaction,Net Banking,HDFC,Bengaluru,0,2082,Expense,5213,100000,Expense,Regular transaction
+TX10183,2025-06-26,June,2025,Thursday,Education,Exam Fee,Regular Transaction,UPI,ICICI,Bengaluru,0,774,Expense,2421,100000,Expense,Regular transaction
+TX10184,2025-06-27,June,2025,Friday,Food,Groceries,Regular Transaction,Cash,ICICI,Bengaluru,0,1487,Expense,3453,100000,Expense,Regular transaction
+TX10185,2025-06-28,June,2025,Saturday,Education,Books,Regular Transaction,UPI,HDFC,Delhi,0,1494,Expense,5151,100000,Expense,Regular transaction
+TX10186,2025-06-29,June,2025,Sunday,Shopping,Clothes,Regular Transaction,Net Banking,PNB,Mumbai,0,518,Expense,5664,100000,Expense,Regular transaction
+TX10187,2025-06-30,June,2025,Monday,Shopping,Clothes,Regular Transaction,UPI,SBI,Jaipur,0,1686,Expense,5796,100000,Expense,Regular transaction
+TX10188,2025-07-01,July,2025,Tuesday,Salary,Monthly Salary,Salary Credited,Bank Transfer,SBI,Jaipur,30000,0,Income,0,100000,Income,Monthly salary
+TX10189,2025-07-01,July,2025,Tuesday,Shopping,Electronics,Regular Transaction,Debit Card,PNB,Jaipur,0,1899,Expense,4831,100000,Expense,Regular transaction
+TX10190,2025-07-02,July,2025,Wednesday,Shopping,Electronics,Regular Transaction,Credit Card,PNB,Delhi,0,613,Expense,3474,100000,Expense,Regular transaction
+TX10191,2025-07-03,July,2025,Thursday,Transport,Petrol,Regular Transaction,UPI,SBI,Bengaluru,0,610,Expense,2467,100000,Expense,Regular transaction
+TX10192,2025-07-04,July,2025,Friday,Shopping,Clothes,Regular Transaction,Cash,SBI,Delhi,0,2402,Expense,3578,100000,Expense,Regular transaction
+TX10193,2025-07-05,July,2025,Saturday,Transport,Bus,Regular Transaction,Net Banking,PNB,Mumbai,0,2265,Expense,2380,100000,Expense,Regular transaction
+TX10194,2025-07-06,July,2025,Sunday,Bills,Mobile Recharge,Regular Transaction,Cash,PNB,Jaipur,0,2459,Expense,5340,100000,Expense,Regular transaction
+TX10195,2025-07-07,July,2025,Monday,Transport,Bus,Regular Transaction,Credit Card,ICICI,Mumbai,0,232,Expense,3628,100000,Expense,Regular transaction
+TX10196,2025-07-08,July,2025,Tuesday,Health,Medicine,Regular Transaction,Net Banking,ICICI,Bengaluru,0,789,Expense,6319,100000,Expense,Regular transaction
+TX10197,2025-07-09,July,2025,Wednesday,Shopping,Accessories,Regular Transaction,Debit Card,ICICI,Jaipur,0,257,Expense,2970,100000,Expense,Regular transaction
+TX10198,2025-07-10,July,2025,Thursday,Food,Restaurant,Regular Transaction,UPI,ICICI,Mumbai,0,1734,Expense,3977,100000,Expense,Regular transaction
+TX10199,2025-07-11,July,2025,Friday,Food,Snacks,Regular Transaction,Net Banking,SBI,Mumbai,0,2577,Expense,2937,100000,Expense,Regular transaction
+TX10200,2025-07-12,July,2025,Saturday,Health,Doctor Visit,Regular Transaction,Cash,ICICI,Jaipur,0,1603,Expense,3445,100000,Expense,Regular transaction
+TX10201,2025-07-13,July,2025,Sunday,Shopping,Accessories,Regular Transaction,Net Banking,HDFC,Mumbai,0,1537,Expense,5928,100000,Expense,Regular transaction
+TX10202,2025-07-14,July,2025,Monday,Shopping,Clothes,Regular Transaction,Cash,ICICI,Pune,0,1919,Expense,4722,100000,Expense,Regular transaction
+TX10203,2025-07-15,July,2025,Tuesday,Transport,Taxi,Regular Transaction,Credit Card,PNB,Jaipur,0,2770,Expense,6954,100000,Expense,Regular transaction
+TX10204,2025-07-16,July,2025,Wednesday,Entertainment,Gaming,Regular Transaction,UPI,HDFC,Jaipur,0,1084,Expense,2940,100000,Expense,Regular transaction
+TX10205,2025-07-17,July,2025,Thursday,Bills,Electricity,Regular Transaction,Cash,HDFC,Pune,0,570,Expense,4077,100000,Expense,Regular transaction
+TX10206,2025-07-18,July,2025,Friday,Health,Gym,Regular Transaction,UPI,ICICI,Delhi,0,2729,Expense,2132,100000,Expense,Regular transaction
+TX10207,2025-07-19,July,2025,Saturday,Bills,Mobile Recharge,Regular Transaction,Cash,HDFC,Mumbai,0,1557,Expense,6160,100000,Expense,Regular transaction
+TX10208,2025-07-20,July,2025,Sunday,Food,Snacks,Regular Transaction,UPI,HDFC,Mumbai,0,360,Expense,6258,100000,Expense,Regular transaction
+TX10209,2025-07-21,July,2025,Monday,Food,Snacks,Regular Transaction,Net Banking,SBI,Pune,0,228,Expense,5115,100000,Expense,Regular transaction
+TX10210,2025-07-22,July,2025,Tuesday,Education,Exam Fee,Regular Transaction,Credit Card,HDFC,Delhi,0,179,Expense,5253,100000,Expense,Regular transaction
+TX10211,2025-07-23,July,2025,Wednesday,Entertainment,Movie,Regular Transaction,Cash,HDFC,Bengaluru,0,392,Expense,4221,100000,Expense,Regular transaction
+TX10212,2025-07-24,July,2025,Thursday,Bills,Mobile Recharge,Regular Transaction,UPI,PNB,Mumbai,0,251,Expense,5600,100000,Expense,Regular transaction
+TX10213,2025-07-25,July,2025,Friday,Entertainment,Streaming,Regular Transaction,Cash,SBI,Delhi,0,2150,Expense,4390,100000,Expense,Regular transaction
+TX10214,2025-07-26,July,2025,Saturday,Education,Course,Regular Transaction,UPI,ICICI,Pune,0,2103,Expense,5758,100000,Expense,Regular transaction
+TX10215,2025-07-27,July,2025,Sunday,Shopping,Clothes,Regular Transaction,UPI,HDFC,Pune,0,1482,Expense,6738,100000,Expense,Regular transaction
+TX10216,2025-07-28,July,2025,Monday,Bills,Internet,Regular Transaction,Debit Card,ICICI,Jaipur,0,1899,Expense,5442,100000,Expense,Regular transaction
+TX10217,2025-07-29,July,2025,Tuesday,Health,Medicine,Regular Transaction,Credit Card,SBI,Bengaluru,0,2516,Expense,3526,100000,Expense,Regular transaction
+TX10218,2025-07-30,July,2025,Wednesday,Bills,Electricity,Regular Transaction,Credit Card,PNB,Jaipur,0,527,Expense,2386,100000,Expense,Regular transaction
+TX10219,2025-07-31,July,2025,Thursday,Food,Groceries,Regular Transaction,Credit Card,PNB,Delhi,0,961,Expense,5494,100000,Expense,Regular transaction
+TX10220,2025-08-01,August,2025,Friday,Salary,Monthly Salary,Salary Credited,Bank Transfer,PNB,Pune,30000,0,Income,0,100000,Income,Monthly salary
+TX10221,2025-08-01,August,2025,Friday,Entertainment,Movie,Regular Transaction,Cash,SBI,Mumbai,0,1980,Expense,3902,100000,Expense,Regular transaction
+TX10222,2025-08-02,August,2025,Saturday,Food,Restaurant,Regular Transaction,Net Banking,SBI,Delhi,0,624,Expense,2362,100000,Expense,Regular transaction
+TX10223,2025-08-03,August,2025,Sunday,Entertainment,Movie,Regular Transaction,Debit Card,SBI,Delhi,0,1018,Expense,2120,100000,Expense,Regular transaction
+TX10224,2025-08-04,August,2025,Monday,Food,Restaurant,Regular Transaction,UPI,ICICI,Delhi,0,433,Expense,2081,100000,Expense,Regular transaction
+TX10225,2025-08-05,August,2025,Tuesday,Education,Exam Fee,Regular Transaction,Credit Card,PNB,Mumbai,0,2529,Expense,4299,100000,Expense,Regular transaction
+TX10226,2025-08-06,August,2025,Wednesday,Education,Course,Regular Transaction,UPI,HDFC,Delhi,0,2869,Expense,4394,100000,Expense,Regular transaction
+TX10227,2025-08-07,August,2025,Thursday,Education,Books,Regular Transaction,Credit Card,SBI,Mumbai,0,2212,Expense,3282,100000,Expense,Regular transaction
+TX10228,2025-08-08,August,2025,Friday,Bills,Electricity,Regular Transaction,Net Banking,PNB,Pune,0,850,Expense,6680,100000,Expense,Regular transaction
+TX10229,2025-08-09,August,2025,Saturday,Entertainment,Streaming,Regular Transaction,Net Banking,SBI,Delhi,0,632,Expense,6226,100000,Expense,Regular transaction
+TX10230,2025-08-10,August,2025,Sunday,Food,Restaurant,Regular Transaction,Debit Card,PNB,Bengaluru,0,1006,Expense,2860,100000,Expense,Regular transaction
+TX10231,2025-08-11,August,2025,Monday,Food,Restaurant,Regular Transaction,UPI,ICICI,Delhi,0,2437,Expense,5271,100000,Expense,Regular transaction
+TX10232,2025-08-12,August,2025,Tuesday,Education,Exam Fee,Regular Transaction,Debit Card,ICICI,Pune,0,1011,Expense,5508,100000,Expense,Regular transaction
+TX10233,2025-08-13,August,2025,Wednesday,Health,Gym,Regular Transaction,Credit Card,HDFC,Bengaluru,0,1629,Expense,2060,100000,Expense,Regular transaction
+TX10234,2025-08-14,August,2025,Thursday,Transport,Petrol,Regular Transaction,Debit Card,SBI,Delhi,0,1661,Expense,4044,100000,Expense,Regular transaction
+TX10235,2025-08-15,August,2025,Friday,Bills,Internet,Regular Transaction,UPI,HDFC,Delhi,0,1581,Expense,4085,100000,Expense,Regular transaction
+TX10236,2025-08-16,August,2025,Saturday,Education,Course,Regular Transaction,Credit Card,PNB,Bengaluru,0,2561,Expense,6344,100000,Expense,Regular transaction
+TX10237,2025-08-17,August,2025,Sunday,Food,Restaurant,Regular Transaction,Debit Card,SBI,Delhi,0,2736,Expense,3385,100000,Expense,Regular transaction
+TX10238,2025-08-18,August,2025,Monday,Shopping,Clothes,Regular Transaction,Debit Card,HDFC,Bengaluru,0,1906,Expense,2780,100000,Expense,Regular transaction
+TX10239,2025-08-19,August,2025,Tuesday,Bills,Electricity,Regular Transaction,Debit Card,ICICI,Delhi,0,2056,Expense,6842,100000,Expense,Regular transaction
+TX10240,2025-08-20,August,2025,Wednesday,Health,Doctor Visit,Regular Transaction,Cash,HDFC,Mumbai,0,2976,Expense,6311,100000,Expense,Regular transaction
+TX10241,2025-08-21,August,2025,Thursday,Education,Books,Regular Transaction,Debit Card,SBI,Delhi,0,437,Expense,6388,100000,Expense,Regular transaction
+TX10242,2025-08-22,August,2025,Friday,Entertainment,Movie,Regular Transaction,Cash,HDFC,Jaipur,0,1672,Expense,2092,100000,Expense,Regular transaction
+TX10243,2025-08-23,August,2025,Saturday,Shopping,Clothes,Regular Transaction,Credit Card,HDFC,Pune,0,698,Expense,5813,100000,Expense,Regular transaction
+TX10244,2025-08-24,August,2025,Sunday,Food,Groceries,Regular Transaction,Net Banking,PNB,Jaipur,0,2786,Expense,3008,100000,Expense,Regular transaction
+TX10245,2025-08-25,August,2025,Monday,Food,Groceries,Regular Transaction,UPI,ICICI,Bengaluru,0,1312,Expense,6224,100000,Expense,Regular transaction
+TX10246,2025-08-26,August,2025,Tuesday,Food,Restaurant,Regular Transaction,Debit Card,ICICI,Delhi,0,279,Expense,3556,100000,Expense,Regular transaction
+TX10247,2025-08-27,August,2025,Wednesday,Bills,Electricity,Regular Transaction,Debit Card,PNB,Delhi,0,1284,Expense,6864,100000,Expense,Regular transaction
+TX10248,2025-08-28,August,2025,Thursday,Bills,Electricity,Regular Transaction,Credit Card,ICICI,Bengaluru,0,2813,Expense,2355,100000,Expense,Regular transaction
+TX10249,2025-08-29,August,2025,Friday,Bills,Electricity,Regular Transaction,Cash,ICICI,Jaipur,0,2925,Expense,6788,100000,Expense,Regular transaction
+TX10250,2025-08-30,August,2025,Saturday,Shopping,Electronics,Regular Transaction,UPI,HDFC,Jaipur,0,1156,Expense,4642,100000,Expense,Regular transaction
+TX10251,2025-08-31,August,2025,Sunday,Health,Medicine,Regular Transaction,Debit Card,PNB,Jaipur,0,2461,Expense,2395,100000,Expense,Regular transaction
+TX10252,2025-09-01,September,2025,Monday,Salary,Monthly Salary,Salary Credited,Bank Transfer,ICICI,Jaipur,30000,0,Income,0,100000,Income,Monthly salary
+TX10253,2025-09-01,September,2025,Monday,Health,Gym,Regular Transaction,Debit Card,PNB,Bengaluru,0,2151,Expense,3219,100000,Expense,Regular transaction
+TX10254,2025-09-02,September,2025,Tuesday,Transport,Petrol,Regular Transaction,Debit Card,ICICI,Jaipur,0,2814,Expense,6264,100000,Expense,Regular transaction
+TX10255,2025-09-03,September,2025,Wednesday,Transport,Petrol,Regular Transaction,Debit Card,PNB,Mumbai,0,2461,Expense,6776,100000,Expense,Regular transaction
+TX10256,2025-09-04,September,2025,Thursday,Health,Doctor Visit,Regular Transaction,Net Banking,PNB,Bengaluru,0,1701,Expense,6789,100000,Expense,Regular transaction
+TX10257,2025-09-05,September,2025,Friday,Health,Doctor Visit,Regular Transaction,Cash,PNB,Jaipur,0,989,Expense,5497,100000,Expense,Regular transaction
+TX10258,2025-09-06,September,2025,Saturday,Food,Snacks,Regular Transaction,Cash,HDFC,Bengaluru,0,173,Expense,6574,100000,Expense,Regular transaction
+TX10259,2025-09-07,September,2025,Sunday,Transport,Bus,Regular Transaction,Debit Card,HDFC,Jaipur,0,2906,Expense,3982,100000,Expense,Regular transaction
+TX10260,2025-09-08,September,2025,Monday,Education,Exam Fee,Regular Transaction,Cash,SBI,Bengaluru,0,1689,Expense,2185,100000,Expense,Regular transaction
+TX10261,2025-09-09,September,2025,Tuesday,Food,Snacks,Regular Transaction,Net Banking,SBI,Bengaluru,0,1487,Expense,6602,100000,Expense,Regular transaction
+TX10262,2025-09-10,September,2025,Wednesday,Entertainment,Movie,Regular Transaction,Credit Card,PNB,Mumbai,0,1882,Expense,3029,100000,Expense,Regular transaction
+TX10263,2025-09-11,September,2025,Thursday,Food,Restaurant,Regular Transaction,Credit Card,HDFC,Mumbai,0,1806,Expense,2600,100000,Expense,Regular transaction
+TX10264,2025-09-12,September,2025,Friday,Entertainment,Movie,Regular Transaction,Credit Card,PNB,Bengaluru,0,2206,Expense,4760,100000,Expense,Regular transaction
+TX10265,2025-09-13,September,2025,Saturday,Entertainment,Gaming,Regular Transaction,Net Banking,ICICI,Mumbai,0,1653,Expense,2035,100000,Expense,Regular transaction
+TX10266,2025-09-14,September,2025,Sunday,Transport,Taxi,Regular Transaction,Debit Card,ICICI,Jaipur,0,1866,Expense,6073,100000,Expense,Regular transaction
+TX10267,2025-09-15,September,2025,Monday,Entertainment,Streaming,Regular Transaction,Credit Card,HDFC,Delhi,0,2563,Expense,4978,100000,Expense,Regular transaction
+TX10268,2025-09-16,September,2025,Tuesday,Bills,Internet,Regular Transaction,Debit Card,HDFC,Jaipur,0,2967,Expense,3823,100000,Expense,Regular transaction
+TX10269,2025-09-17,September,2025,Wednesday,Shopping,Clothes,Regular Transaction,Net Banking,ICICI,Delhi,0,1270,Expense,5282,100000,Expense,Regular transaction
+TX10270,2025-09-18,September,2025,Thursday,Food,Restaurant,Regular Transaction,Debit Card,HDFC,Bengaluru,0,1423,Expense,6932,100000,Expense,Regular transaction
+TX10271,2025-09-19,September,2025,Friday,Bills,Mobile Recharge,Regular Transaction,Credit Card,SBI,Mumbai,0,1265,Expense,4914,100000,Expense,Regular transaction
+TX10272,2025-09-20,September,2025,Saturday,Shopping,Accessories,Regular Transaction,Cash,PNB,Delhi,0,2647,Expense,6768,100000,Expense,Regular transaction
+TX10273,2025-09-21,September,2025,Sunday,Bills,Electricity,Regular Transaction,UPI,HDFC,Jaipur,0,2794,Expense,6489,100000,Expense,Regular transaction
+TX10274,2025-09-22,September,2025,Monday,Entertainment,Gaming,Regular Transaction,Cash,ICICI,Pune,0,2471,Expense,6309,100000,Expense,Regular transaction
+TX10275,2025-09-23,September,2025,Tuesday,Health,Gym,Regular Transaction,UPI,HDFC,Delhi,0,410,Expense,4146,100000,Expense,Regular transaction
+TX10276,2025-09-24,September,2025,Wednesday,Bills,Mobile Recharge,Regular Transaction,Credit Card,PNB,Jaipur,0,2513,Expense,6484,100000,Expense,Regular transaction
+TX10277,2025-09-25,September,2025,Thursday,Health,Gym,Regular Transaction,Net Banking,SBI,Delhi,0,244,Expense,3542,100000,Expense,Regular transaction
+TX10278,2025-09-26,September,2025,Friday,Transport,Petrol,Regular Transaction,UPI,SBI,Jaipur,0,2071,Expense,6695,100000,Expense,Regular transaction
+TX10279,2025-09-27,September,2025,Saturday,Shopping,Electronics,Regular Transaction,UPI,PNB,Pune,0,1029,Expense,4759,100000,Expense,Regular transaction
+TX10280,2025-09-28,September,2025,Sunday,Bills,Internet,Regular Transaction,UPI,HDFC,Jaipur,0,2356,Expense,3152,100000,Expense,Regular transaction
+TX10281,2025-09-29,September,2025,Monday,Transport,Petrol,Regular Transaction,Net Banking,HDFC,Pune,0,2720,Expense,6900,100000,Expense,Regular transaction
+TX10282,2025-09-30,September,2025,Tuesday,Shopping,Accessories,Regular Transaction,Credit Card,ICICI,Delhi,0,339,Expense,6833,100000,Expense,Regular transaction
+TX10283,2025-10-01,October,2025,Wednesday,Salary,Monthly Salary,Salary Credited,Bank Transfer,ICICI,Delhi,30000,0,Income,0,100000,Income,Monthly salary
+TX10284,2025-10-01,October,2025,Wednesday,Food,Snacks,Regular Transaction,Debit Card,PNB,Jaipur,0,1318,Expense,4183,100000,Expense,Regular transaction
+TX10285,2025-10-02,October,2025,Thursday,Food,Restaurant,Regular Transaction,Debit Card,PNB,Delhi,0,1344,Expense,6474,100000,Expense,Regular transaction
+TX10286,2025-10-03,October,2025,Friday,Transport,Bus,Regular Transaction,Cash,SBI,Delhi,0,1810,Expense,3713,100000,Expense,Regular transaction
+TX10287,2025-10-04,October,2025,Saturday,Transport,Bus,Regular Transaction,Debit Card,PNB,Delhi,0,687,Expense,3058,100000,Expense,Regular transaction
+TX10288,2025-10-05,October,2025,Sunday,Health,Gym,Regular Transaction,Debit Card,HDFC,Jaipur,0,1719,Expense,3683,100000,Expense,Regular transaction
+TX10289,2025-10-06,October,2025,Monday,Entertainment,Gaming,Regular Transaction,Credit Card,PNB,Jaipur,0,904,Expense,3797,100000,Expense,Regular transaction
+TX10290,2025-10-07,October,2025,Tuesday,Transport,Petrol,Regular Transaction,UPI,ICICI,Mumbai,0,443,Expense,5232,100000,Expense,Regular transaction
+TX10291,2025-10-08,October,2025,Wednesday,Health,Gym,Regular Transaction,Debit Card,SBI,Delhi,0,628,Expense,6742,100000,Expense,Regular transaction
+TX10292,2025-10-09,October,2025,Thursday,Education,Course,Regular Transaction,Cash,ICICI,Bengaluru,0,2332,Expense,5647,100000,Expense,Regular transaction
+TX10293,2025-10-10,October,2025,Friday,Education,Exam Fee,Regular Transaction,Credit Card,HDFC,Bengaluru,0,2925,Expense,2532,100000,Expense,Regular transaction
+TX10294,2025-10-11,October,2025,Saturday,Bills,Electricity,Regular Transaction,UPI,PNB,Mumbai,0,1774,Expense,4685,100000,Expense,Regular transaction
+TX10295,2025-10-12,October,2025,Sunday,Food,Restaurant,Regular Transaction,Debit Card,ICICI,Jaipur,0,1027,Expense,4191,100000,Expense,Regular transaction
+TX10296,2025-10-13,October,2025,Monday,Health,Medicine,Regular Transaction,Cash,ICICI,Bengaluru,0,2970,Expense,4625,100000,Expense,Regular transaction
+TX10297,2025-10-14,October,2025,Tuesday,Food,Groceries,Regular Transaction,Debit Card,HDFC,Bengaluru,0,1813,Expense,3217,100000,Expense,Regular transaction
+TX10298,2025-10-15,October,2025,Wednesday,Food,Groceries,Regular Transaction,Debit Card,HDFC,Bengaluru,0,2390,Expense,2131,100000,Expense,Regular transaction
+TX10299,2025-10-16,October,2025,Thursday,Education,Books,Regular Transaction,Cash,PNB,Bengaluru,0,537,Expense,4592,100000,Expense,Regular transaction
+TX10300,2025-10-17,October,2025,Friday,Food,Snacks,Regular Transaction,UPI,SBI,Bengaluru,0,2039,Expense,5007,100000,Expense,Regular transaction
+TX10301,2025-10-18,October,2025,Saturday,Shopping,Electronics,Regular Transaction,Credit Card,PNB,Pune,0,2362,Expense,4557,100000,Expense,Regular transaction
+TX10302,2025-10-19,October,2025,Sunday,Health,Gym,Regular Transaction,Net Banking,SBI,Jaipur,0,2581,Expense,5031,100000,Expense,Regular transaction
+TX10303,2025-10-20,October,2025,Monday,Health,Doctor Visit,Regular Transaction,Cash,HDFC,Jaipur,0,2111,Expense,3187,100000,Expense,Regular transaction
+TX10304,2025-10-21,October,2025,Tuesday,Food,Groceries,Regular Transaction,Cash,SBI,Pune,0,2119,Expense,2562,100000,Expense,Regular transaction
+TX10305,2025-10-22,October,2025,Wednesday,Entertainment,Movie,Regular Transaction,UPI,SBI,Pune,0,930,Expense,3260,100000,Expense,Regular transaction
+TX10306,2025-10-23,October,2025,Thursday,Health,Gym,Regular Transaction,UPI,SBI,Mumbai,0,2093,Expense,2216,100000,Expense,Regular transaction
+TX10307,2025-10-24,October,2025,Friday,Food,Groceries,Regular Transaction,UPI,PNB,Bengaluru,0,689,Expense,6798,100000,Expense,Regular transaction
+TX10308,2025-10-25,October,2025,Saturday,Shopping,Accessories,Regular Transaction,Cash,PNB,Delhi,0,2969,Expense,4908,100000,Expense,Regular transaction
+TX10309,2025-10-26,October,2025,Sunday,Education,Course,Regular Transaction,Debit Card,PNB,Bengaluru,0,489,Expense,4336,100000,Expense,Regular transaction
+TX10310,2025-10-27,October,2025,Monday,Health,Gym,Regular Transaction,Cash,ICICI,Bengaluru,0,237,Expense,6341,100000,Expense,Regular transaction
+TX10311,2025-10-28,October,2025,Tuesday,Shopping,Electronics,Regular Transaction,UPI,SBI,Jaipur,0,628,Expense,6040,100000,Expense,Regular transaction
+TX10312,2025-10-29,October,2025,Wednesday,Shopping,Clothes,Regular Transaction,Debit Card,SBI,Pune,0,1015,Expense,4996,100000,Expense,Regular transaction
+TX10313,2025-10-30,October,2025,Thursday,Transport,Petrol,Regular Transaction,Debit Card,HDFC,Pune,0,2423,Expense,2931,100000,Expense,Regular transaction
+TX10314,2025-10-31,October,2025,Friday,Education,Course,Regular Transaction,UPI,SBI,Bengaluru,0,2031,Expense,6265,100000,Expense,Regular transaction
+TX10315,2025-11-01,November,2025,Saturday,Salary,Monthly Salary,Salary Credited,Bank Transfer,SBI,Delhi,30000,0,Income,0,100000,Income,Monthly salary
+TX10316,2025-11-01,November,2025,Saturday,Entertainment,Gaming,Regular Transaction,Net Banking,HDFC,Delhi,0,940,Expense,5517,100000,Expense,Regular transaction
+TX10317,2025-11-02,November,2025,Sunday,Health,Doctor Visit,Regular Transaction,Debit Card,ICICI,Delhi,0,424,Expense,4552,100000,Expense,Regular transaction
+TX10318,2025-11-03,November,2025,Monday,Transport,Bus,Regular Transaction,Cash,SBI,Pune,0,571,Expense,6767,100000,Expense,Regular transaction
+TX10319,2025-11-04,November,2025,Tuesday,Entertainment,Movie,Regular Transaction,Net Banking,HDFC,Mumbai,0,2000,Expense,2138,100000,Expense,Regular transaction
+TX10320,2025-11-05,November,2025,Wednesday,Transport,Taxi,Regular Transaction,Credit Card,ICICI,Delhi,0,2689,Expense,3264,100000,Expense,Regular transaction
+TX10321,2025-11-06,November,2025,Thursday,Transport,Taxi,Regular Transaction,Cash,SBI,Mumbai,0,200,Expense,5797,100000,Expense,Regular transaction
+TX10322,2025-11-07,November,2025,Friday,Transport,Bus,Regular Transaction,Cash,ICICI,Delhi,0,2510,Expense,2746,100000,Expense,Regular transaction
+TX10323,2025-11-08,November,2025,Saturday,Shopping,Electronics,Regular Transaction,UPI,SBI,Mumbai,0,1025,Expense,5655,100000,Expense,Regular transaction
+TX10324,2025-11-09,November,2025,Sunday,Education,Exam Fee,Regular Transaction,Credit Card,SBI,Mumbai,0,126,Expense,6378,100000,Expense,Regular transaction
+TX10325,2025-11-10,November,2025,Monday,Health,Gym,Regular Transaction,UPI,SBI,Jaipur,0,2682,Expense,6152,100000,Expense,Regular transaction
+TX10326,2025-11-11,November,2025,Tuesday,Transport,Bus,Regular Transaction,Credit Card,PNB,Pune,0,1537,Expense,6449,100000,Expense,Regular transaction
+TX10327,2025-11-12,November,2025,Wednesday,Entertainment,Movie,Regular Transaction,Cash,SBI,Pune,0,1295,Expense,6284,100000,Expense,Regular transaction
+TX10328,2025-11-13,November,2025,Thursday,Transport,Taxi,Regular Transaction,Cash,HDFC,Jaipur,0,807,Expense,3124,100000,Expense,Regular transaction
+TX10329,2025-11-14,November,2025,Friday,Health,Medicine,Regular Transaction,Debit Card,HDFC,Pune,0,1418,Expense,4609,100000,Expense,Regular transaction
+TX10330,2025-11-15,November,2025,Saturday,Food,Restaurant,Regular Transaction,Credit Card,ICICI,Bengaluru,0,548,Expense,3844,100000,Expense,Regular transaction
+TX10331,2025-11-16,November,2025,Sunday,Transport,Bus,Regular Transaction,Net Banking,ICICI,Bengaluru,0,1788,Expense,6924,100000,Expense,Regular transaction
+TX10332,2025-11-17,November,2025,Monday,Shopping,Clothes,Regular Transaction,Debit Card,HDFC,Pune,0,1596,Expense,4462,100000,Expense,Regular transaction
+TX10333,2025-11-18,November,2025,Tuesday,Entertainment,Gaming,Regular Transaction,Debit Card,ICICI,Pune,0,1345,Expense,5126,100000,Expense,Regular transaction
+TX10334,2025-11-19,November,2025,Wednesday,Entertainment,Streaming,Regular Transaction,UPI,PNB,Pune,0,395,Expense,6748,100000,Expense,Regular transaction
+TX10335,2025-11-20,November,2025,Thursday,Shopping,Electronics,Regular Transaction,UPI,SBI,Delhi,0,656,Expense,5565,100000,Expense,Regular transaction
+TX10336,2025-11-21,November,2025,Friday,Entertainment,Movie,Regular Transaction,Credit Card,HDFC,Mumbai,0,1101,Expense,6737,100000,Expense,Regular transaction
+TX10337,2025-11-22,November,2025,Saturday,Bills,Internet,Regular Transaction,Cash,HDFC,Bengaluru,0,231,Expense,2136,100000,Expense,Regular transaction
+TX10338,2025-11-23,November,2025,Sunday,Education,Exam Fee,Regular Transaction,Debit Card,HDFC,Delhi,0,207,Expense,4409,100000,Expense,Regular transaction
+TX10339,2025-11-24,November,2025,Monday,Education,Exam Fee,Regular Transaction,Net Banking,PNB,Jaipur,0,665,Expense,2116,100000,Expense,Regular transaction
+TX10340,2025-11-25,November,2025,Tuesday,Transport,Bus,Regular Transaction,UPI,PNB,Jaipur,0,1907,Expense,3126,100000,Expense,Regular transaction
+TX10341,2025-11-26,November,2025,Wednesday,Bills,Electricity,Regular Transaction,Debit Card,SBI,Bengaluru,0,233,Expense,5762,100000,Expense,Regular transaction
+TX10342,2025-11-27,November,2025,Thursday,Entertainment,Streaming,Regular Transaction,Debit Card,SBI,Bengaluru,0,956,Expense,2993,100000,Expense,Regular transaction
+TX10343,2025-11-28,November,2025,Friday,Shopping,Clothes,Regular Transaction,Credit Card,HDFC,Delhi,0,771,Expense,5062,100000,Expense,Regular transaction
+TX10344,2025-11-29,November,2025,Saturday,Shopping,Accessories,Regular Transaction,Cash,HDFC,Bengaluru,0,2117,Expense,3919,100000,Expense,Regular transaction
+TX10345,2025-11-30,November,2025,Sunday,Food,Groceries,Regular Transaction,Cash,PNB,Bengaluru,0,2279,Expense,6241,100000,Expense,Regular transaction
+TX10346,2025-12-01,December,2025,Monday,Salary,Monthly Salary,Salary Credited,Bank Transfer,PNB,Delhi,30000,0,Income,0,100000,Income,Monthly salary
+TX10347,2025-12-01,December,2025,Monday,Entertainment,Gaming,Regular Transaction,Net Banking,HDFC,Delhi,0,1677,Expense,3845,100000,Expense,Regular transaction
+TX10348,2025-12-02,December,2025,Tuesday,Health,Doctor Visit,Regular Transaction,UPI,ICICI,Delhi,0,2565,Expense,4755,100000,Expense,Regular transaction
+TX10349,2025-12-03,December,2025,Wednesday,Transport,Petrol,Regular Transaction,Net Banking,HDFC,Jaipur,0,1381,Expense,3047,100000,Expense,Regular transaction
+TX10350,2025-12-04,December,2025,Thursday,Shopping,Electronics,Regular Transaction,Cash,HDFC,Bengaluru,0,293,Expense,4522,100000,Expense,Regular transaction
+TX10351,2025-12-05,December,2025,Friday,Bills,Electricity,Regular Transaction,Credit Card,ICICI,Pune,0,2925,Expense,4449,100000,Expense,Regular transaction
+TX10352,2025-12-06,December,2025,Saturday,Shopping,Accessories,Regular Transaction,Cash,SBI,Mumbai,0,403,Expense,3157,100000,Expense,Regular transaction
+TX10353,2025-12-07,December,2025,Sunday,Education,Books,Regular Transaction,UPI,PNB,Delhi,0,110,Expense,3510,100000,Expense,Regular transaction
+TX10354,2025-12-08,December,2025,Monday,Bills,Electricity,Regular Transaction,UPI,PNB,Mumbai,0,1472,Expense,2397,100000,Expense,Regular transaction
+TX10355,2025-12-09,December,2025,Tuesday,Entertainment,Movie,Regular Transaction,Net Banking,HDFC,Delhi,0,2688,Expense,6945,100000,Expense,Regular transaction
+TX10356,2025-12-10,December,2025,Wednesday,Entertainment,Movie,Regular Transaction,UPI,PNB,Delhi,0,1849,Expense,3161,100000,Expense,Regular transaction
+TX10357,2025-12-11,December,2025,Thursday,Bills,Electricity,Regular Transaction,Credit Card,HDFC,Bengaluru,0,2243,Expense,3993,100000,Expense,Regular transaction
+TX10358,2025-12-12,December,2025,Friday,Education,Books,Regular Transaction,Credit Card,PNB,Bengaluru,0,2338,Expense,5911,100000,Expense,Regular transaction
+TX10359,2025-12-13,December,2025,Saturday,Education,Course,Regular Transaction,Credit Card,ICICI,Jaipur,0,2693,Expense,4474,100000,Expense,Regular transaction
+TX10360,2025-12-14,December,2025,Sunday,Health,Medicine,Regular Transaction,Credit Card,HDFC,Jaipur,0,361,Expense,4579,100000,Expense,Regular transaction
+TX10361,2025-12-15,December,2025,Monday,Health,Medicine,Regular Transaction,UPI,PNB,Mumbai,0,2123,Expense,3821,100000,Expense,Regular transaction
+TX10362,2025-12-16,December,2025,Tuesday,Entertainment,Gaming,Regular Transaction,Cash,ICICI,Jaipur,0,2310,Expense,6371,100000,Expense,Regular transaction
+TX10363,2025-12-17,December,2025,Wednesday,Shopping,Clothes,Regular Transaction,Net Banking,HDFC,Pune,0,915,Expense,4690,100000,Expense,Regular transaction
+TX10364,2025-12-18,December,2025,Thursday,Transport,Bus,Regular Transaction,Debit Card,SBI,Mumbai,0,1274,Expense,6730,100000,Expense,Regular transaction
+TX10365,2025-12-19,December,2025,Friday,Entertainment,Streaming,Regular Transaction,Debit Card,ICICI,Pune,0,1787,Expense,2639,100000,Expense,Regular transaction
+TX10366,2025-12-20,December,2025,Saturday,Education,Exam Fee,Regular Transaction,Debit Card,PNB,Delhi,0,845,Expense,4935,100000,Expense,Regular transaction
+TX10367,2025-12-21,December,2025,Sunday,Food,Groceries,Regular Transaction,Net Banking,SBI,Pune,0,2350,Expense,6317,100000,Expense,Regular transaction
+TX10368,2025-12-22,December,2025,Monday,Health,Doctor Visit,Regular Transaction,Credit Card,SBI,Jaipur,0,2711,Expense,5087,100000,Expense,Regular transaction
+TX10369,2025-12-23,December,2025,Tuesday,Food,Restaurant,Regular Transaction,Debit Card,ICICI,Pune,0,417,Expense,4180,100000,Expense,Regular transaction
+TX10370,2025-12-24,December,2025,Wednesday,Entertainment,Movie,Regular Transaction,Credit Card,HDFC,Bengaluru,0,858,Expense,4348,100000,Expense,Regular transaction
+TX10371,2025-12-25,December,2025,Thursday,Education,Exam Fee,Regular Transaction,Credit Card,HDFC,Jaipur,0,2891,Expense,4156,100000,Expense,Regular transaction
+TX10372,2025-12-26,December,2025,Friday,Transport,Bus,Regular Transaction,Credit Card,HDFC,Pune,0,163,Expense,6093,100000,Expense,Regular transaction
+TX10373,2025-12-27,December,2025,Saturday,Food,Restaurant,Regular Transaction,UPI,HDFC,Pune,0,1184,Expense,2592,100000,Expense,Regular transaction
+TX10374,2025-12-28,December,2025,Sunday,Education,Books,Regular Transaction,Credit Card,SBI,Pune,0,880,Expense,6167,100000,Expense,Regular transaction
+TX10375,2025-12-29,December,2025,Monday,Bills,Mobile Recharge,Regular Transaction,UPI,HDFC,Jaipur,0,921,Expense,5600,100000,Expense,Regular transaction
+TX10376,2025-12-30,December,2025,Tuesday,Food,Snacks,Regular Transaction,Credit Card,ICICI,Delhi,0,2338,Expense,5404,100000,Expense,Regular transaction
+TX10377,2025-12-31,December,2025,Wednesday,Entertainment,Streaming,Regular Transaction,UPI,SBI,Pune,0,1351,Expense,5586,100000,Expense,Regular transaction
